@@ -8,6 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   famous_teams << "arrays!"
+  puts famous_teams
 end
 
 def add_element_to_start_of_array(array, element)
