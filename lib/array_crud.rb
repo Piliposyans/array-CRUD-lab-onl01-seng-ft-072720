@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   famous_teams = ["arsenal", "chelsea", "everton", "spurs"]
-  "spurs" = famous_teams.pop
+  ("spurs") = famous_teams.pop
 end
 
 def remove_element_from_start_of_array(array)
